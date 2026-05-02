@@ -4,7 +4,7 @@ End-to-end serverless spam classifier, combining Scikit-learn for model developm
 
 This project demonstrates how to bridge the gap between machine learning experimentation and real-world deployment.
 
-1. Prerequisites
+# 1. Prerequisites
 
  - **Fundamental skills**:
    - Basic proficiency in Python and understanding of Machine Learning concepts like classification.
